@@ -134,11 +134,11 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ## Training Loss:
-![output]()
+![output](https://github.com/ragulmani936/named-entity-recognition/blob/main/img%201.jpg)
 ## Training Loss vs Validation loss:
-![output]()
+![output](https://github.com/ragulmani936/named-entity-recognition/blob/main/img%202.jpg)
 Include your plot here
 
 ## Sample Text Prediction
-![output]()
+![output](https://github.com/ragulmani936/named-entity-recognition/blob/main/img%203.jpg)
 ## RESULT
