@@ -11,14 +11,26 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 Include the neural network model diagram.
 
 ## DESIGN STEPS
+## STEP 1:
+Download and load the dataset to colab.
 
-### STEP 1:
+## STEP 2:
+Scale the data using MinMaxScaler
 
-### STEP 2:
+## STEP 3:
+Split the data into train and test.
 
-### STEP 3:
+## STEP 4:
+Build the LSTM based recurrent neural network
 
-Write your own steps
+## STEP 5:
+Train the model with training data
+
+## STEP 6:
+Evaluate the model with the testing data
+
+## STEP 7:
+Plot the Stock prediction plot
 
 ## PROGRAM
 ~~~
@@ -142,3 +154,4 @@ Include your plot here
 ## Sample Text Prediction
 ![output](https://github.com/ragulmani936/named-entity-recognition/blob/main/img%203.jpg)
 ## RESULT
+Successfully developed LSTM based rnn model for named-entity-recognition.
